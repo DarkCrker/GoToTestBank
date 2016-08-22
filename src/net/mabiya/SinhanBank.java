@@ -11,7 +11,7 @@ public class SinhanBank {
 	public void view(){
 		
 		input = new Scanner(System.in);
-		
+		// test brunch
 		int drpositMoney = 0;
 		int menuNumber = 0;
 		int withdrawMoney = 0;
